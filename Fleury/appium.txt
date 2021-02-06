@@ -1,0 +1,10 @@
+
+[caps]
+platformName = "Android"
+deviceName = "LidiaDevice"
+app = ".\\app\\Fleury.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
+debug = false
